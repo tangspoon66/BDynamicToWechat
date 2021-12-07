@@ -18,6 +18,14 @@ B站关注了非常多up主，每天动态99+，但其实绝大部分的UP主我
 cd /home && git clone https://github.com/tangspoon66/BDynamicToWechat.git
 ```
 
+### 2. 修改server酱的sendkey
+
+```
+vi BDynamicToWechat.py
+```
+
+![image-20211207170834662](https://picbed.tangspoon.cn/uPic/image-20211207170834662.png)
+
 ### 2. 建立uid.txt
 
 ```
