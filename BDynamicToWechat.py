@@ -4,9 +4,8 @@ import requests
 import time
 
 dynamic_api = 'https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/space_history'
-msg_api = 'https://sctapi.ftqq.com/SCT94144TuDEe5IYr9NNt9vRWbw07TIoV.send'
-# # demo3需要先手动输入uid
-# uid = ['487425891', '44571203', '31880257', '99157282', '482508159']
+msg_api = 'https://sctapi.ftqq.com/xxxxxxxx.send'
+
 
 # 更新up主的timestamp转str
 struct_time = []
